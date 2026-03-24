@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Dipika 👋
 
-<!--
-**dipikaingle/dipikaingle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+WordPress Developer with 7.6+ years experience in building custom websites, themes
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- WordPress (Custom Themes, WooCommerce)
+- HTML, CSS, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+
+### 🔹 Project 1: E-commerce Website
+- Built using WordPress + WooCommerce
+- Features: Payment gateway, product filters
+- Live Link: https://www.luzukdemo.com/demo/perfect-ecommerce-store/
+
+## 📫 Contact Me
+- Email: dipikaingle26@gmail.com
+- LinkedIn: www.linkedin.com/in/dipika-ingle
