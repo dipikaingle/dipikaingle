@@ -5,7 +5,7 @@ WordPress Developer with 7.6+ years experience in building custom websites, them
 
 ## 🚀 Skills
 - WordPress (Custom Themes, WooCommerce)
-- HTML, CSS, JavaScript
+- Php, HTML, CSS, JavaScript
 
 ## 📂 Projects
 
