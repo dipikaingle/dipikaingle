@@ -9,10 +9,32 @@ WordPress Developer with 7.6+ years experience in building custom websites, them
 
 ## 📂 Projects
 
-### 🔹 Project 1: E-commerce Website
-- Built using WordPress + WooCommerce
-- Features: Payment gateway, product filters
-- Live Link: https://www.luzukdemo.com/demo/perfect-ecommerce-store/
+# Business WordPress Theme
+
+## Overview
+Custom WordPress theme built for business websites.
+
+## Features
+- Custom theme development (no page builder)
+- Responsive design
+- SEO optimized
+- Speed optimized
+- Custom post types
+
+## Tech Used
+- WordPress
+- PHP
+- HTML/CSS
+- JavaScript
+
+## Demo
+Live demo: https://www.luzukdemo.com/demo/perfect-ecommerce-store/
+
+## Screenshots
+(add images)
+
+## Author
+Dipika Ingle
 
 ## 📫 Contact Me
 - Email: dipikaingle26@gmail.com
