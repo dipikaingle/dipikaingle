@@ -9,6 +9,12 @@ WordPress Developer with 7.6+ years experience in building custom websites, them
 
 ## 📂 Projects
 - Perfect Ecommerce Store
+- Home Renovation
+- Cinematic Videography
+- Smart Electrician
+- Equestrian
+- Cooking Master
+- Flower Shop
 
 ## 📫 Contact Me
 - Email: dipikaingle26@gmail.com
