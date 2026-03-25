@@ -1,1 +1,104 @@
+# Cooking Master - WordPress Theme
 
+## 🔗 Live Demo
+https://www.wpthemesdemo.com/cooking-master/
+
+---
+
+## 📌 Overview
+Cooking Master is a custom WordPress theme designed for food bloggers, chefs, restaurants, and cooking enthusiasts.
+
+The theme focuses on presenting recipes, blogs, and food content in a visually appealing and user-friendly way.
+
+Ideal for:
+- Food bloggers
+- Recipe websites
+- Chefs & culinary experts
+- Restaurants and cafes
+
+---
+
+## ✨ Features
+- Fully custom WordPress theme (no page builder dependency)
+- Clean and modern UI design
+- Fully responsive layout (mobile, tablet, desktop)
+- Recipe and blog-friendly layout
+- Image-focused design for food presentation
+- SEO-friendly structure
+- Fast loading and optimized performance
+- Cross-browser compatibility
+
+---
+
+## 🛠️ Tech Stack
+- WordPress
+- PHP
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## 📷 Screenshots
+_Add screenshots here (Homepage, Recipe section, Blog page, Mobile view)_
+
+Example:
+![Homepage](./screenshots/homepage.png)
+![Recipes](./screenshots/recipes.png)
+
+---
+
+## ⚙️ Installation
+1. Download or clone the cooking-master-pro  
+2. Upload the theme folder to:  
+   `/wp-content/themes/`  
+3. Go to WordPress Admin → Appearance → Themes  
+4. Activate the theme  
+
+---
+
+## 📂 Folder Structure
+
+theme-name/
+├── assets/
+├── template-parts/
+├── inc/
+├── functions.php
+├── style.css
+├── index.php
+├── header.php
+├── footer.php
+
+
+---
+
+## 🚀 Key Highlights
+- Designed for food and recipe-based websites  
+- Clean layout for better content readability  
+- Image-focused UI for engaging user experience  
+- Lightweight and performance optimized  
+
+---
+
+## 📊 Case Study
+- **Goal:** Create an engaging website for food and recipe content  
+- **Challenge:** Present recipes visually while maintaining performance  
+- **Solution:** Custom lightweight theme with structured blog layout  
+- **Result:** Improved user engagement and better content presentation  
+
+---
+
+## 👩‍💻 Author
+Dipika Ingle  
+WordPress Developer | 7.6+ Years Experience  
+
+---
+
+## 📬 Contact
+- Email: dipikaingle26@gmail.com
+- LinkedIn: www.linkedin.com/in/dipika-ingle
+
+---
+
+## ⭐ Support
+If you like this project, feel free to ⭐ the repository!
