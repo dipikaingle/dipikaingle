@@ -77,4 +77,4 @@ Elegant product-based eCommerce theme
 
 ---
 
-⭐ If you like my work, feel free to explore my repositories!
+⭐ If you like my work, feel free to explore my profile!
